@@ -51,13 +51,4 @@ Because the UGV moves along cardinal grid axes (4-directional), the Manhattan he
 - **Phase 3: Hardware Actuation (Planned)**  
   Serial/UART telemetry link forwarding path coordinates to an Arduino/ESP32 differential-drive chassis equipped with HC-SR04 ultrasonic rangefinders.
 
----
 
-## 🚀 Local Development
-
-No complex installations or package managers required.
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/](https://github.com/)<Geethanjali-putluri>/nethra-web.git
-   cd nethra-web
