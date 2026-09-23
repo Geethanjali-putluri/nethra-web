@@ -59,5 +59,5 @@ No complex installations or package managers required.
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/](https://github.com/)<YOUR_GITHUB_USERNAME>/nethra-web.git
+   git clone [https://github.com/](https://github.com/)<Geethanjali-putluri>/nethra-web.git
    cd nethra-web
